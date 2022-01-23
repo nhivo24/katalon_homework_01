@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Hoc_phonetxt</name>
+   <name>inputPhone</name>
    <tag></tag>
    <elementGuidId>0c1f67fb-378d-4b1f-a055-2cad03f81df9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#phonetxt</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='phonetxt']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#phonetxt</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

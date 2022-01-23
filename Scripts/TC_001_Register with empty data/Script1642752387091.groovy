@@ -21,11 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(link)
 
-WebUI.click(findTestObject('TC_001/input_Hoc_name'))
+WebUI.click(findTestObject('TC_001/inputName'))
 
-WebUI.click(findTestObject('TC_001/input_Hoc_emailtxt'))
+WebUI.click(findTestObject('TC_001/inputEmail'))
 
-WebUI.click(findTestObject('TC_001/input_Hoc_phonetxt'))
+WebUI.click(findTestObject('TC_001/inputPhone'))
 
 WebUI.click(findTestObject('TC_001/btn_dangki'))
 
