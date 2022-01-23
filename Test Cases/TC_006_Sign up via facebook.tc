@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_006_Sign up via facebook</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4457995-8ebd-48d6-a099-e39dbcb53416</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>7ec260ae-ee76-4a7a-9637-16b2d049ab82</id>
+      <masked>false</masked>
+      <name>link</name>
+   </variable>
+   <variable>
+      <defaultValue>'0966624800'</defaultValue>
+      <description></description>
+      <id>14d64000-c555-4d65-9154-e1fe27675c25</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+</TestCaseEntity>
