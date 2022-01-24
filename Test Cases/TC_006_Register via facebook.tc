@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_006_Sign up via facebook</name>
+   <name>TC_006_Register via facebook</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>c4457995-8ebd-48d6-a099-e39dbcb53416</testCaseGuid>
